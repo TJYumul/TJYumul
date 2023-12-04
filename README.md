@@ -20,7 +20,7 @@ I'm a passionate coder with a knack for solving complex problems and managing da
   [Certification Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D614FE1A1215216285286D2BD0CBDAB14C2E83076706FBC713EBD515F9BB079D)
 
 - **SQL and Relational Databases 101**
-  [Certification Link](https://courses.cognitiveclass.ai/certificates/4c63ad7c3a604b81815b4c04435b799d))
+  [Certification Link](https://courses.cognitiveclass.ai/certificates/4c63ad7c3a604b81815b4c04435b799d)
 
 ## Skill Sets
 
