@@ -30,7 +30,7 @@ I'm a passionate coder with a knack for solving complex problems and managing da
 
 ## Reach Me
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tj-william-yumul-4805032a3/))
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tj-william-yumul-4805032a3/)
 - **Email:** tjwilliamyumul@gmail.com
 
 Feel free to connect with me for discussions, collaborations, or just to say hi! 😊
