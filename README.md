@@ -32,6 +32,5 @@ I'm a passionate coder with a knack for solving complex problems and managing da
 
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tj-william-yumul-4805032a3/)
 - **Email:** tjwilliamyumul@gmail.com
-- https://bronze-brittne-45.tiiny.site/
 
 Feel free to connect with me for discussions, collaborations, or just to say hi! 😊
