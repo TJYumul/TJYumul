@@ -26,7 +26,7 @@ I'm a passionate coder with a knack for solving complex problems and managing da
 
 - **Programming:** Java, SQL
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Intellij, Eclipse, HTML
 
 ## Reach Me
 
