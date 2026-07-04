@@ -77,7 +77,7 @@ AYAHTEK Corporation
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/tj-william-yumul-4805032a3/
+- LinkedIn: [TJ William Yumul](https://www.linkedin.com/in/tj-william-yumul-33877437a/)
 - Email: tjwilliamyumul@gmail.com
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
