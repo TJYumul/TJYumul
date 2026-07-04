@@ -32,9 +32,12 @@ AYAHTEK Corporation
 ### SQL and Relational Databases 101
 [View Credential](https://courses.cognitiveclass.ai/certificates/4c63ad7c3a604b81815b4c04435b799d)
 
-### SQL and Relational Databases 101
 ### Introduction to Cybersecurity
+[View Credential](https://www.credly.com/badges/297d4fa1-d46c-4c7d-bdde-92bd75345087)
+
 ### Computer Hardware Basics
+[View Credential](https://www.credly.com/badges/d828bc8e-fbde-4ac0-940c-b66fa5eba24a)
+
 
 ## Technical Skills
 
